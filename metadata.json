@@ -1,0 +1,7 @@
+{
+  "name": "AceExam",
+  "description": "An accessible online examination prototype featuring dynamic UI adjustments and AI-powered audio transcription for inclusive test-taking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
